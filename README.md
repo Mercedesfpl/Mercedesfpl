@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Mercedes Pineda </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--
-**Mercedesfpl/Mercedesfpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 Here are some ideas to get you started:
 
