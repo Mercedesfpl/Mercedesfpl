@@ -20,10 +20,10 @@
 <h4>Connect with me</h4>
 
 <span>
-  <a href= "https://www.instagram.com/valenwerle/?hl=es">
+  <a href= "https://www.instagram.com/valenwerle/?hl=es](https://www.instagram.com/franciss_mpl?igsh=MW1ja2pxOHgxb20xdQ==">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
-  <a>
+  <a href= "https://www.linkedin.com/in/mercedes-pineda-3a2083397?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a>
